@@ -2,8 +2,7 @@
 
 A modular and extensible **Car Rental System** implemented in Java using **multiple Design Patterns**.  
 The project includes real-world object models such as `Car`, `Customer`, and `Rental`, with clean separation of concerns and a strong OOP architecture.
-![RentalCarSystem](https://github.com/user-attachments/assets/fc9fada7-7410-4c3f-b72b-683aca1baede)
-
+<img src="RentalCarSystem.png" alt="Class Diagram" width="500"/>
 ---
 
 ## Features
